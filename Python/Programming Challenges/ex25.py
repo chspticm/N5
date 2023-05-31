@@ -13,4 +13,4 @@ for loop in range(7):
 average = total / 7
 
 print('This week\'s average was:')
-print(round(average, 2),'degrees centigrade')
+print(round(average, 2), 'degrees centigrade')
