@@ -1,6 +1,7 @@
 # Mr Stratton
 # 25/05/2023
 # Programming Challenges 10
+# SQA Computing Science National 4
 
 print('How many par 3 holes are there?')
 par3 = int(input('>'))

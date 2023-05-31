@@ -1,6 +1,7 @@
 # Mr Stratton
 # 25/05/2023
 # Programming Challenges 09
+# SQA Computing Science National 5
 
 print('Enter the number of carbon atoms')
 carbon = int(input('>'))

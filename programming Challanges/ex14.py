@@ -1,6 +1,7 @@
 # Mr Stratton
 # 30/05/2023
 # Programming Challenges 14
+# SQA Computing Science National 4
 
 print('Please enter your score:')
 score = int(input('>'))

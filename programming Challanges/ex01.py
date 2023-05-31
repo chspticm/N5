@@ -1,6 +1,7 @@
 # Mr Stratton
 # 25/05/2023
 # Programming Challenges 01
+# SQA Computing Science National 4
 
 print("Please enter your name?")
 name = input(">")

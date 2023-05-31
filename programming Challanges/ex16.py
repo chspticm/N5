@@ -1,6 +1,7 @@
 # Mr Stratton
 # 30/05/2023
 # Programming Challenges 16
+# SQA Computing Science National 4
 
 print('Rectangle 1')
 print("Please enter the following values in cm.")
