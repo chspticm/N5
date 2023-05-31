@@ -1,8 +1,9 @@
-# Programming Challanges 
-by Greg Reid
+# Python 3
 
-The .py files have **no internal commentary by design**, they are going to be used with **PRIMM** and the Block model.
+I will be using Camel Case for variables 
+https://en.wikipedia.org/wiki/Camel_case
 
-This does mean that they are harder to read. Pupils will be expected to add internal commentary and changes in due course.
+I will also be trying as much as possible to follow the Zen of Python
+https://www.datacamp.com/blog/lessons-from-the-zen-of-python
 
-The files have been labeled N4 or N5 this is based on the current SQA documentation.
+
