@@ -13,14 +13,14 @@ third = int(input('>'))
 
 total = first + second + third
 
-print('A total of £' + str(total),'was raised.')
+print('A total of £' + str(total), 'was raised.')
 
 if total < 1000:
     total = total + 100
 elif total >= 1000 and total < 2000:
     total = total * 2
 elif total > 2000:
-    total = 4000 + (total-2000)
+    total = 4000 + (total - 2000)
 else:
     print('An error has occured')
     

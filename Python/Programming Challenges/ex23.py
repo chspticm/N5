@@ -9,5 +9,5 @@ print('Please enter surname:')
 surname = input('>')
 
 for loop in range(3):
-    print(forename,surname,forename,surname)
-    print(surname,forename,surname,forename)
+    print(forename, surname, forename, surname)
+    print(surname, forename, surname, forename)

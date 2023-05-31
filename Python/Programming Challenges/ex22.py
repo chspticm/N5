@@ -13,7 +13,7 @@ third = int(input('>'))
 
 total = first + second + third
 
-print('A total of £' + str(total),'was raised.')
+print('A total of £' + str(total), 'was raised.')
 
 if total < 1000:
     total = total + 100
