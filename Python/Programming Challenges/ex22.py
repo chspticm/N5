@@ -1,7 +1,7 @@
 # Mr Stratton
 # 31/05/2023
-# Programming Challenges 20
-# SQA Computing Science National 5
+# Programming Challenges 22
+# SQA Computing Science National 4 (5)
 
 
 print('Please enter the first amount raised.')
@@ -24,5 +24,7 @@ elif total > 2000:
 else:
     print('An error has occured')
     
-print('With the company bonus, this will be £' + str(total))
+print('With the company bonus, this will be')
+for x in range(3):
+     print('£' + str(total) + '!!!')
 
