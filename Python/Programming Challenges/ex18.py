@@ -31,7 +31,7 @@ if speed == 70 and distance <= 75:
 
 
 if passed:
-    print('Your car passed the bracking distance test')
+    print('Your car passed the braking distance test')
 else:
     print('Your car failed the braking distance test.')
     print('Submit your car for a tyre and brake test soon.')

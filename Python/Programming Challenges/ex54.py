@@ -25,6 +25,6 @@ for loop in range(7):
     elif letter in 'QZ':
         points = 10
     else:
-        print('An error has occured.')
+        print('An error has occurred.')
 
     print(letter, '-', points)

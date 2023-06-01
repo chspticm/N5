@@ -13,7 +13,7 @@ while speed < 20:
 print('Please enter the tested stopping distance (m)')
 distance = float(input('>'))
 while distance <= 0 :
-    print('Sorrt, please enter a value greater than 0')
+    print('Sorry, please enter a value greater than 0')
     print('Please enter the tested stopping distance (m)')
     distance = float(input('>'))
 
@@ -23,7 +23,7 @@ else:
     passed = False
 
 if passed:
-    print('Your car passed the bracking distance test')
+    print('Your car passed the braking distance test')
     print('Well done')
 else:
     print('Your car failed the braking distance test.')

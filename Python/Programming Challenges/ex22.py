@@ -22,7 +22,7 @@ elif total >= 1000 and total < 2000:
 elif total > 2000:
     total = 4000 + (total-2000)
 else:
-    print('An error has occured')
+    print('An error has occurred')
     
 print('With the company bonus, this will be')
 for x in range(3):
