@@ -1,0 +1,36 @@
+/* Background Colours */
+body{background-color:Black}
+
+/* Text Properties */
+h1 {font-family:Helvetica;
+text-align:center;
+color:Red;
+font-size:30pt}
+
+h2 {font-family:Helvetica;
+text-align:left;
+color:Black;
+font-size:12pt}
+
+p {font-family:Helvetica;
+text-align:left;
+color:Black;
+font-size:10pt}
+
+a {font-family:Helvetica;
+text-align:left;
+color:Black;
+font-size:10pt}
+
+/* IDs */
+#headingParagraph{font-family:Serif;
+font:georgia;
+text-align:center;
+color:Red;
+font-size:16pt}   
+
+/* Classes */
+.headingSection {background-color:DeepSkyBlue}
+.contentSection {background-color:IndianRed}
+.linksSection {background-color:MediumSeaGreen}
+.bannerImage {width:500px;height:60px}	

@@ -1,0 +1,11 @@
+videoID,vloggerID,videoName,duration,dateCreated,content,rating
+1,7,C++,60,30-Dec-17,Lesson 1 Learn about C++,1
+2,9,Java,30,12-Nov-19,Learn Java in 24 hours,4
+3,10,Slime,45,15-May-20,Make slime,1
+4,10,Slime,12,25-Apr-20,Glitter Slime,5
+5,7,Lego,8,24-Jan-19,Mission 1,5
+6,3,COD,180,27-May-18,History of COD,2
+7,6,Eye Shadow,35,14-Feb-19,Eye shadow tutorial,3
+8,12,Christmas Decorations,0,01-Dec-19,Snowmen,4
+9,15,Microbits,180,02-Sep-19,Programming for kids,2
+10,8,Jeans,240,18-Jun-19,Jeans for all,3

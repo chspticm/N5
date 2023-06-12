@@ -1,0 +1,34 @@
+orderID,dateDue,price,flowerType,bunchSize,chocolates,message,customerID
+ALG3592,24/03/2019,25,tulip,large,FALSE,,622
+ARN30784,29/03/2019,39,lily,large,FALSE,,651
+BCN1924,27/03/2019,15,daffodil,large,FALSE,,233
+BFS7696,27/03/2019,9,daffodil,medium,FALSE,,461
+BHX492544,01/04/2019,22.5,rose,small,TRUE,,240
+BUD15136,30/03/2019,14,lily,small,FALSE,,544
+CHQ3848,28/03/2019,34,rose,medium,FALSE,Thanks for everything,392
+DEI246272,30/03/2019,27,lily,medium,FALSE,,228
+EDI15392,27/03/2019,20.5,tulip,medium,TRUE,,130
+FCO61312,24/03/2019,37.5,rose,medium,TRUE,This is your special day,164
+FRA7696,28/03/2019,30.5,lily,medium,TRUE,,304
+GAL14102,27/03/2019,19,rose,small,FALSE,Congratulations - you did it!,329
+HAT1329,28/03/2019,13.5,tulip,small,TRUE,,7
+HEL1970176,25/03/2019,50,rose,large,TRUE,,745
+HLR123136,29/03/2019,42.5,lily,large,TRUE,,991
+IBZ985088,30/03/2019,17,tulip,medium,FALSE,,316
+LAS70622,01/04/2019,27,lily,medium,FALSE,,499
+LAX962343,23/03/2019,39,lily,large,FALSE,,456
+LPL127943,26/03/2019,5,daffodil,small,FALSE,,532
+LPL30528,31/03/2019,46.5,rose,large,FALSE,,608
+LRH492544,02/04/2019,8.5,daffodil,small,TRUE,Good luck,868
+LSI7440,30/03/2019,50,rose,large,TRUE,,684
+MAN61568,26/03/2019,22.5,rose,small,TRUE,,689
+MMX75121,30/03/2019,37.5,rose,medium,TRUE,,917
+MNA1902,03/04/2019,20.5,tulip,medium,TRUE,In celebration of your birthday,973
+MUC481,29/03/2019,19,rose,small,FALSE,,76
+NAP222019,27/03/2019,50,rose,large,TRUE,Hope your new house becomes a home,253
+NTS192422,25/03/2019,17.5,daffodil,large,TRUE,,380
+SAW239,01/04/2019,10,tulip,small,FALSE,,376
+SNS123136,23/03/2019,34,rose,medium,FALSE,,468
+SVQ1668,01/04/2019,22.5,rose,small,TRUE,,152
+VNO158,05/04/2019,42.5,lily,large,TRUE,,0
+WLW30784,29/03/2019,34,rose,medium,FALSE,,88
