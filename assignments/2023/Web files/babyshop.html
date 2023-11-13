@@ -1,0 +1,74 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<title> Baby Shop </title>
+    
+	<style>
+		li { font-size: 14pt; }			
+	</style>
+
+	<script>
+	function changePic1() {
+  		document.getElementById("myImg").src = "furniture2.jpg";
+	}
+	function changePic2(){
+  		document.getElementById("myImg").src = "furniture1.jpg";
+	}
+	</script>
+</head>
+<body>
+	
+	<div>
+		<img src = "babylicious.png" />
+		<p> Our staff are here to support you with your journey into parenthood. <p>
+		<p> Visit our store today <b> 24 Wester Shawfair, Danderhall, Dalkeith </b> or place an order by calling us on <b> 0345 279 1000 </b> 	
+	</div>
+
+	<div class = "category">
+		
+        
+        <!--                          -->
+		<!-- add feeding section here -->
+		<!--                          -->
+		
+        
+	</div>
+
+	<div>
+		<h1> Furniture </h1>
+		<img onmouseover="changePic1()" onmouseout="changePic2()" id="myImg" src="furniture1.jpg">
+
+		<p> We have a range of furniture to suit any nursery style. </p>
+        <p> Put your mouse over the image above to see some of our stock! </p>
+		<p> Each item is hand crafted and can be painted a colour of your choice. </p> 
+		<p> Our options include: oak cribs, pine wardrobes and pine drawers. </p>
+	</div>
+	
+	<div>
+		<h1> Toys and Gifts </h1>
+		<p> Come into our store to see a selection of toys for children of all ages. </p>
+
+		<h2> Wooden Train </h2>
+		<img src = "train.JPG" />
+		<h2> Block Tower </h2>
+		<img src = "threePyramids.JPG" />
+		<h2> Wooden Pyramid </h2>
+		<img src = "pyramid.JPG" />
+		
+		<br><br>
+		<video width="320" height="240" controls>
+			<source src="toy.mov" type="video/mp4">
+			Your browser does not support the video tag.
+		</video> 
+	</div>
+
+	<div> 
+        
+        <!--                          -->
+		<!-- add calming music section here -->
+		<!--                          -->
+        
+	</div>
+	
+</body>
+</html>
