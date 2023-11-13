@@ -1,1 +1,1 @@
-Other coding examples.
+Examples of appropriate level programs.
