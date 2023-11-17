@@ -7,13 +7,16 @@ Write a program that allows the user to calculate the following areas
 # Mr Stratton
 # 17/11/23
 
-while True:
+while True: # Loop
+    # Display Menu
     print('Please select the shape to calculate the are of' )
     print('A - Square')
     print('B - Circle')
     print('C - Rectangle')
     print('\nAny other selection will close the program')
     choice = input('>')
+
+    # Act on choice
     if choice == 'A' or choice == 'a':
         print('Please enter the length of the sides')
         length = float(input('>'))
@@ -35,6 +38,6 @@ while True:
         print('The area of the rectangle was',area)
 
     else:
-        break
+        break # Exit loop
 
-    print('\n')
+    print('\n') # Display two blank lines.
